@@ -181,20 +181,32 @@ export const projects = [
             "Built a modern, responsive, and animated personal portfolio website to showcase skills, projects, and experience, Implemented smooth UI animations, responsive layouts, and reusable components, Designed clean sections for About, Skills, Projects, and Contact, Created using industry best practices by following a professional portfolio build tutorial. ",
         image: jobPortal,
         tags: ["React JS", "Vite", "HTML", "CSS", "JavaScript", "Tailwind CSS", "Git"],
-        github: "#",
+        github: "https://github.com/Bhaveshkhapre/Personal_Portfolio",
 
     },
 
-    // {
-    //     id: 3,
-    //     title: "Employee Management System (EMS)",
-    //     description:
-    //         "Developed a complete HR/Admin web application for managing employees, attendance, leave, and roles,Implemented JWT-based authentication with role-based access control, Built dashboards with search, filters, and full CRUD operations.",
-    //     //   image: githubdetLogo,
-    //     tags: ["JavaScript", "React JS", "API", "Redux Toolkit", "Material Ui", "Node.js", "MongoDB", "Express.js"],
-    //     github: "#",
+    {
+    id: 3,
+    title: "AI Chatbot API Platform",
 
-    // },
+    description:
+        "Developed an AI-powered chatbot platform with real-time conversational capabilities using modern full-stack technologies. Built scalable REST APIs for handling chatbot interactions, user sessions, and message history. Implemented authentication, secure API handling, and dynamic UI components. Designed responsive chatbot interface with modern UI/UX and optimized backend performance for handling multiple user requests.",
+
+    tags: [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "Scalekit UI",
+        "JavaScript",
+        "REST API"
+    ],
+
+    github: "https://github.com/Bhaveshkhapre/Ai_chatbot",
+    Vercel:"https://aichatbot-eta-five.vercel.app/"
+},
     // {
     //     id: 2,
     //     title: "Task Management Application (Trello-Style)",

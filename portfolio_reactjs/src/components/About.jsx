@@ -40,7 +40,8 @@ const About = () => {
                     </h3>
                     {/* About Me Paragraph */}
                     <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-                        Frontend developer with hands-on experience building responsive and modern web applications using React.js. Skilled in creating clean UIs, reusable components, and performance-optimized user experiences.
+
+                        Full-Stack MERN Developer with 3+ years of experience designing and developing scalable web applications using modern JavaScript technologies including React, Node.js, Express.js, and MongoDB. Strong experience in building REST APIs, integrating third-party services, optimizing application performance, and implementing secure authentication systems. Proven ability to deliver high-quality applications with scalable architecture and clean code practices. Adept at collaborating in agile teams and transforming business requirements into efficient technical solutions.
                     </p>
                     {/* Resume Button */}
                     <a
@@ -69,7 +70,7 @@ const About = () => {
                         gyroscope={true}
                     >
                         <img
-                              src={ProfileImage}
+                            src={ProfileImage}
                             alt="Bhavesh Khapre"
                             className="w-full h-full rounded-full object-cover drop-shadow-[0_10px_20px_rgba(130,69,236,0.5)]"
                         />
