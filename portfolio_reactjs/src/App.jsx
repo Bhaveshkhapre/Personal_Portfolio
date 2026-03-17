@@ -1,12 +1,12 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import About from "./components//About";
+import About from "./components/About"; 
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
-import BlurBlob from './components/BlurBlob';
+import BlurBlob from "./components/BlurBlob";
 
 const App = () => {
   return (
